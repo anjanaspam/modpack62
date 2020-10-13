@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Schema for contextual security" source="com.glide.security_schema">fd9a6763b8131010e839fe53fc16e41b</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-13 16:03:03</sys_created_on>
+        <sys_id>c8f47f065337101071a3ddeeff7b121f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="appglobal1" source="7a7477065337101071a3ddeeff7b12c9">7a7477065337101071a3ddeeff7b12c9</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-13 16:03:03</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
